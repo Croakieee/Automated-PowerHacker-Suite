@@ -1,9 +1,7 @@
 #### Install Kali Linux in WIndows10 Without VirtualBox [YOUTUBE]([https://youtu.be/BsFhpIDcd9I](https://youtu.be/dDfDJM-scjc?si=s5v4byh5-YBaZ3DX))
 
 # Hackingtool Menu 🧰
-{{toc}}
 
-{{tools}}
 ## Installation For Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
 
 #### This Tool Must Run As ROOT !!!
