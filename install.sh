@@ -31,8 +31,6 @@ echo "                      ██║  ██║██████╔╝ ╚█�
 echo "                      ╚═╝  ╚═╝╚═════╝   ╚═══╝     ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝";
 
 
-echo -e "${BLUE}                                    https://github.com/hackThacker/advtools.git ${NC}"
-
 echo -e "${RED}                                   [!] This Tool Must Run As ROOT [!]${NC}"
 echo ""
 echo -e ${CYAN}              "Select Best Option : "
@@ -62,7 +60,7 @@ if [ $choice == 1 ]; then
 	    fi
     		echo "[✔] Installing ...";
 		echo "";
-		git clone https://github.com/hackThacker/advtools.git "$INSTALL_DIR";
+		git clone https://github.com/Croakieee/Automated-PowerHacker-Suite.git "$INSTALL_DIR";
 		echo "#!/bin/bash
 		python3 $INSTALL_DIR/hackingtool.py" '${1+"$@"}' > hackingtool;
 		sudo chmod +x hackingtool;
