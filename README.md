@@ -6,7 +6,7 @@
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone (https://github.com/Croakieee/Automated-PowerHacker-Suite.git)
+    git clone https://github.com/Croakieee/Automated-PowerHacker-Suite.git
     
     chmod -R 755 hackingtool  
     
