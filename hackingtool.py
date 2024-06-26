@@ -39,12 +39,8 @@ logo = """\033[33m
   ███    ███     ███    ███ ███    ███   ███ ▀███▄ ███  ███   ███   ███    ███          ███     ███    ███ ███    ███ ███▌    ▄ 
   ███    █▀      ███    █▀  ████████▀    ███   ▀█▀ █▀    ▀█   █▀    ████████▀          ▄████▀    ▀██████▀   ▀██████▀  █████▄▄██ 
                                          ▀                                                                            ▀                             
-                                    \033[34m[✔]  https://github.com/hackThacker/advtools.git [✔]
                                     \033[34m[✔]            Version 1.1.1              [✔]
-                                    \033[91m[X] Please Don't Use For illegal Activity  [X]
-                                    \033[91m[X] This is for Education-purpose [X] 
-                                   \[\033[0;37m\]  Ｔｈｉｓ Ｔｏｏｌ ｉｓ Ｃｒｅａｔｅｄ ｂｙ ：－ ｈａｃｋＴｈａｃｋｅｒ☻
-                                    \033[97m"""  
+
                                                          
 all_tools = [
     AnonSurfTools(),
@@ -121,7 +117,7 @@ if __name__ == "__main__":
             print(
                 "\033[91m Please Run This Tool On A Debian System For Best Results " "\e[00m")
             sleep(2)
-            webbrowser.open_new_tab("hackhacker.blogspot.com")
+            webbrowser.open_new_tab("https://www.youtube.com/watch?v=_BoqSxHTTNs")
 
         else:
             print("Please Check Your System or Open New Issue ...")
