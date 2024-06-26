@@ -1,22 +1,3 @@
-### All in One Hacking tool For Hackers🥇
-
-꧁༒☬𝓬𝓻𝓮𝓪𝓽𝓮𝓭 𝓫𝔂 𝓝𝓮𝓮𝓻𝓪𝓳☬༒꧂
-## Update Available V1.1.1 🚀 
-
- - [x] Added New Tools 
-   - [x] personalinformation gathering tools
-   
-  
-- [x] Multitor Tools update
-   - [X] Added Tool in phishing
-         - [X] web cam snap
-
-- [X] Upcomming tools update
-     - [X] location tracking
-     - [X]  OSINT
-     
-       
-
 
 # Hackingtool Menu 🧰
 - [Anonymously Hiding Tools](#anonymously-hiding-tools)
@@ -204,12 +185,6 @@
 - [Pixload](https://github.com/chinarulezzz/pixload)
 #### Web crawling
 - [Gospider](https://github.com/jaeles-project/gospider)
-#### Mix tools
-- Terminal Multiplexer
-
-![](https://github.com/hackThacker/advtools/blob/main/images/image0.png)
-![](https://github.com/hackThacker/advtools/blob/main/images/image1.png)
-
 
 #### This Tool Must Run As ROOT !!!
 
@@ -224,21 +199,4 @@
     sudo bash install.sh
     
     sudo python3 hackingtool.py
-    
 
-
-<img src ="https://img.shields.io/badge/Important-notice-red" />
-<h4>Please Don't Use for illegal Activity</h4>
-
-꧁𓊈𒆜🅲🆁🅴🅰🆃🅴🅳 🅱🆈 🅽🅴🅴🆁🅰🅹𒆜𓊉꧂
-
- ### Support to us
-<a href="https://www.buymeacoffee.com/hackThacker0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 50px !important;"></a>
-----------------------------------------------
-
-https://www.paypal.com/donate?hosted_button_id=GVZ23CFW2ET2G
-
-#### Don't Forgot to share with Your Friends 
---------------------------------------------------
-### The new Update get will soon stay updated
-#### Thank you..!!
