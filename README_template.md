@@ -24,9 +24,6 @@
 
 After all steps are completed, run the following command ---> **root@kaliLinux:~** **hackingtool**
 
-#### Thanks to original Author of the tools used in hackingtool
-
-<img src ="https://img.shields.io/badge/Important-notice-red" />
 
 
 ## Social:
