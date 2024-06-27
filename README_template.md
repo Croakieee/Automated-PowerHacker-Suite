@@ -28,5 +28,3 @@ After all steps are completed, run the following command ---> **root@kaliLinux:~
 
 ## Social:
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Croakieee/)](https://github.com/Croakieee)
-![github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
