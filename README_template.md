@@ -1,26 +1,3 @@
-### All in One Hacking tool For Hackers🥇
-![](https://img.shields.io/github/license/Z4nzu/hackingtool)
-![](https://img.shields.io/github/issues/Z4nzu/hackingtool)
-![](https://img.shields.io/github/issues-closed/Z4nzu/hackingtool)
-![](https://img.shields.io/badge/Python-3-blue)
-![](https://img.shields.io/github/forks/Z4nzu/hackingtool)
-![](https://img.shields.io/github/stars/Z4nzu/hackingtool)
-![](https://img.shields.io/github/last-commit/Z4nzu/hackingtool)
-[![HitCount](http://hits.dwyl.com/Z4nzu/hackingtool.svg)](http://hits.dwyl.com/Z4nzu/hackingtool)
-![](https://img.shields.io/badge/platform-Linux%20%7C%20KaliLinux%20%7C%20ParrotOs-blue)
-
-#### How to run the Kali Linux CLI on Windows 10 without running a VM [YOUTUBE](https://youtu.be/BsFhpIDcd9I)
-
-## Update available V1.1.0 🚀 
-- [x] Added New Tools 
-    - [x] Reverse Engineering
-    - [x] RAT Tools
-    - [x] Web Crawling 
-    - [x] Payload Injector
-- [x] Multitor Tools update
-- [X] Added Tool in Wifi-Jamming
-
-
 # Hackingtool Menu 🧰
 
 ![](https://github.com/Z4nzu/hackingtool/blob/master/images/A00.png)
