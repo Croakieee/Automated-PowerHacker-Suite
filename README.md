@@ -185,7 +185,7 @@
 ![](https://github.com/Croakieee/hackingtool/blob/master/images/A2.jpeg)
 ![](https://github.com/Croakieee/hackingtool/blob/master/images/A4.jpeg)
 
-## Installation For Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
+## Installation For Linux <img src="https://youtu.be/dDfDJM-scjc?si=cniEe1OiL4X5NKZ0" alt="linux" width="25" height="25"/></p><p align="center">
 
 
 ### !! RUN HACKINGTOOL AS ROOT !! 
