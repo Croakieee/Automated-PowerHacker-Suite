@@ -179,11 +179,11 @@
 - Terminal Multiplexer
 
 
-![](https://github.com/Croakieee/Automated-PowerHacker-Suite/images/A00.jpeg)
-![](https://github.com/Croakieee/Automated-PowerHacker-Suite/images/A0.jpeg)
-![](https://github.com/Croakieee/Automated-PowerHacker-Suite/images/A1.jpeg)
-![](https://github.com/Croakieee/Automated-PowerHacker-Suite/images/A2.jpeg)
-![](https://github.com/Croakieee/Automated-PowerHacker-Suite/images/A4.jpeg)
+![](https://github.com/Croakieee/Automated-PowerHacker-Suite/blob/main/images/A0.png)
+![](https://github.com/Croakieee/Automated-PowerHacker-Suite/blob/main/images/A00.png)
+![](https://github.com/Croakieee/Automated-PowerHacker-Suite/blob/main/images/A1.png)
+![](https://github.com/Croakieee/Automated-PowerHacker-Suite/blob/main/images/A2.png)
+![](https://github.com/Croakieee/Automated-PowerHacker-Suite/blob/main/images/A4.png)
 
 ## Installation For Linux <img src="https://youtu.be/dDfDJM-scjc?si=cniEe1OiL4X5NKZ0" alt="linux" width="25" height="25"/></p><p align="center">
 
