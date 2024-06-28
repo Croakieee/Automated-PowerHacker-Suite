@@ -1,10 +1,11 @@
 # Hackingtool Menu 🧰
 
-![](https://github.com/Croakieee/hackingtool/blob/master/images/A00.jpeg)
-![](https://github.com/Croakieee/hackingtool/blob/master/images/A0.jpeg)
-![](https://github.com/Croakieee/hackingtool/blob/master/images/A1.jpeg)
-![](https://github.com/Croakieee/hackingtool/blob/master/images/A2.jpeg)
-![](https://github.com/Croakieee/hackingtool/blob/master/images/A4.jpeg)
+![](https://github.com/Croakieee/Automated-PowerHacker-Suite/blob/main/images/A0.png)
+![](https://github.com/Croakieee/Automated-PowerHacker-Suite/blob/main/images/A00.png)
+![](https://github.com/Croakieee/Automated-PowerHacker-Suite/blob/main/images/A1.png)
+![](https://github.com/Croakieee/Automated-PowerHacker-Suite/blob/main/images/A2.png)
+![](https://github.com/Croakieee/Automated-PowerHacker-Suite/blob/main/images/A4.png)
+
 
 ## Installation guide for Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
 
